@@ -1,0 +1,30 @@
+body {
+  background-color: #333333;
+  margin: 0;
+  padding: 0;
+}
+.heart {
+  height: 400px;
+  width: 400px;
+  background-color: #333333;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.fa {
+  font-size: 400px;
+  background: url(image/rainbow.jpg);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-size: 550px 400px;
+  animation: move 28s infinite linear forwards;
+}
+
+@keyframes move {
+  100% {
+    background-position: 5000px 0;
+  }
+}
