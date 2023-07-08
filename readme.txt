@@ -1,6 +1,6 @@
 # Rainbow-heart
 
-Download the code and Oprn in the VS Code. 
+Download the code and Oprn it in the VS Code. 
 
 Run on Live-Server.
 
