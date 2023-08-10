@@ -1,8 +1,8 @@
-# Rainbow-heart
+# Rainbow-Heart
 
 Download the code and Open it in the VS Code. 
 
-Install VS code Extension Live Server.
+Install VS Code Extension Live Server.
 
 Run on Live-Server.
 
